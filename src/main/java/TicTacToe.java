@@ -20,7 +20,7 @@ public class TicTacToe {
                 System.out.print(board[i][j] + " | ");  // formatted console output
             }
             System.out.println();
-            System.out.println("-------------");
+            System.out.println("-------------" );
         }
     }
 
